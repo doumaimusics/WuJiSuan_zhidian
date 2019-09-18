@@ -1,0 +1,16 @@
+.nav_bar {
+    background: linear-gradient(#66ADFF, #6692FF);
+}
+ .nav_bar .van-icon,
+ .nav_bar .van-nav-bar__title {
+     color: #fff;
+     font-size: 14px;
+ }
+ .van-nav-bar__text {
+     color: #fff;
+     font-size: 14px;
+ }
+
+.van-nav-bar__title {
+    max-width: none;
+}
